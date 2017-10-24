@@ -1,0 +1,29 @@
+c:\users\user\documents\visual studio 2013\Projects\gruopbox\gruopbox\bin\Debug\gruopbox.exe.config
+c:\users\user\documents\visual studio 2013\Projects\gruopbox\gruopbox\bin\Debug\gruopbox.exe
+c:\users\user\documents\visual studio 2013\Projects\gruopbox\gruopbox\bin\Debug\gruopbox.pdb
+c:\users\user\documents\visual studio 2013\Projects\gruopbox\gruopbox\obj\Debug\gruopbox.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\gruopbox\gruopbox\obj\Debug\gruopbox.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\gruopbox\gruopbox\obj\Debug\gruopbox.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\gruopbox\gruopbox\obj\Debug\gruopbox.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\gruopbox\gruopbox\obj\Debug\gruopbox.exe
+c:\users\user\documents\visual studio 2013\Projects\gruopbox\gruopbox\obj\Debug\gruopbox.pdb
+C:\Users\Casper\Desktop\GroupBox\gruopbox\bin\Debug\gruopbox.exe.config
+C:\Users\Casper\Desktop\GroupBox\gruopbox\bin\Debug\gruopbox.exe
+C:\Users\Casper\Desktop\GroupBox\gruopbox\bin\Debug\gruopbox.pdb
+C:\Users\Casper\Desktop\GroupBox\gruopbox\obj\Debug\gruopbox.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\GroupBox\gruopbox\obj\Debug\gruopbox.Form1.resources
+C:\Users\Casper\Desktop\GroupBox\gruopbox\obj\Debug\gruopbox.Properties.Resources.resources
+C:\Users\Casper\Desktop\GroupBox\gruopbox\obj\Debug\gruopbox.csproj.GenerateResource.Cache
+C:\Users\Casper\Desktop\GroupBox\gruopbox\obj\Debug\gruopbox.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GroupBox\gruopbox\obj\Debug\gruopbox.exe
+C:\Users\Casper\Desktop\GroupBox\gruopbox\obj\Debug\gruopbox.pdb
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\GroupBox\gruopbox\bin\Debug\gruopbox.exe.config
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\GroupBox\gruopbox\bin\Debug\gruopbox.exe
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\GroupBox\gruopbox\bin\Debug\gruopbox.pdb
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\GroupBox\gruopbox\obj\Debug\gruopbox.csprojResolveAssemblyReference.cache
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\GroupBox\gruopbox\obj\Debug\gruopbox.Form1.resources
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\GroupBox\gruopbox\obj\Debug\gruopbox.Properties.Resources.resources
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\GroupBox\gruopbox\obj\Debug\gruopbox.csproj.GenerateResource.Cache
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\GroupBox\gruopbox\obj\Debug\gruopbox.csproj.CoreCompileInputs.cache
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\GroupBox\gruopbox\obj\Debug\gruopbox.exe
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\GroupBox\gruopbox\obj\Debug\gruopbox.pdb

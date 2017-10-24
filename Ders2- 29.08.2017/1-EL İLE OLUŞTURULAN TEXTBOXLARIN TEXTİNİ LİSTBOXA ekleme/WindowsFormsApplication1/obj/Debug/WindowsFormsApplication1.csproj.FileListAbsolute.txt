@@ -1,0 +1,29 @@
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Casper\Desktop\EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Casper\Desktop\EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Casper\Desktop\EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Casper\Desktop\EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Casper\Desktop\EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Casper\Desktop\EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Casper\Desktop\EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Casper\Desktop\EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\Ders2- 29.08.2017\1-EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\Ders2- 29.08.2017\1-EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\Ders2- 29.08.2017\1-EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\Ders2- 29.08.2017\1-EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\Ders2- 29.08.2017\1-EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\Ders2- 29.08.2017\1-EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\Ders2- 29.08.2017\1-EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\Ders2- 29.08.2017\1-EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\Ders2- 29.08.2017\1-EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Marmara Üniversitesi\2.Sınıf\Görsel Programlama-II\Ders2- 29.08.2017\1-EL İLE OLUŞTURULAN TEXTBOXLARIN TEXTİNİ LİSTBOXA ekleme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
