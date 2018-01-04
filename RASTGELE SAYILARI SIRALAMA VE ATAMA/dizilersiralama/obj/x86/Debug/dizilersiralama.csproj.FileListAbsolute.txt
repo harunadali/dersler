@@ -1,0 +1,12 @@
+G:\Okul\Düzensiz\RASTGELE SAYILARI SIRALAMA VE ATAMA\dizilersiralama\bin\Debug\dizilersiralama.exe
+G:\Okul\Düzensiz\RASTGELE SAYILARI SIRALAMA VE ATAMA\dizilersiralama\bin\Debug\dizilersiralama.pdb
+G:\Okul\Düzensiz\RASTGELE SAYILARI SIRALAMA VE ATAMA\dizilersiralama\obj\x86\Debug\dizilersiralama.Form1.resources
+G:\Okul\Düzensiz\RASTGELE SAYILARI SIRALAMA VE ATAMA\dizilersiralama\obj\x86\Debug\dizilersiralama.Properties.Resources.resources
+G:\Okul\Düzensiz\RASTGELE SAYILARI SIRALAMA VE ATAMA\dizilersiralama\obj\x86\Debug\dizilersiralama.csproj.GenerateResource.Cache
+G:\Okul\Düzensiz\RASTGELE SAYILARI SIRALAMA VE ATAMA\dizilersiralama\obj\x86\Debug\dizilersiralama.exe
+G:\Okul\Düzensiz\RASTGELE SAYILARI SIRALAMA VE ATAMA\dizilersiralama\obj\x86\Debug\dizilersiralama.pdb
+E:\Okul\Düzensiz\RASTGELE SAYILARI SIRALAMA VE ATAMA\dizilersiralama\obj\x86\Debug\dizilersiralama.exe
+E:\Okul\Düzensiz\RASTGELE SAYILARI SIRALAMA VE ATAMA\dizilersiralama\obj\x86\Debug\dizilersiralama.pdb
+G:\Okul\Düzensiz\RASTGELE SAYILARI SIRALAMA VE ATAMA\dizilersiralama\obj\x86\Debug\dizilersiralama.csprojResolveAssemblyReference.cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYILARI SIRALAMA VE ATAMA\dizilersiralama\obj\x86\Debug\dizilersiralama.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYILARI SIRALAMA VE ATAMA\dizilersiralama\obj\x86\Debug\dizilersiralama.pdb

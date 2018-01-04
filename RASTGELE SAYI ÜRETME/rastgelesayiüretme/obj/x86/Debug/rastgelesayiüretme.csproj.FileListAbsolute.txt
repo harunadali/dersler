@@ -1,0 +1,8 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYI ÜRETME\rastgelesayiüretme\bin\Debug\rastgelesayiüretme.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYI ÜRETME\rastgelesayiüretme\bin\Debug\rastgelesayiüretme.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYI ÜRETME\rastgelesayiüretme\obj\x86\Debug\rastgelesayiüretme.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYI ÜRETME\rastgelesayiüretme\obj\x86\Debug\rastgelesayiüretme.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYI ÜRETME\rastgelesayiüretme\obj\x86\Debug\rastgelesayiüretme.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYI ÜRETME\rastgelesayiüretme\obj\x86\Debug\rastgelesayiüretme.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYI ÜRETME\rastgelesayiüretme\obj\x86\Debug\rastgelesayiüretme.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYI ÜRETME\rastgelesayiüretme\obj\x86\Debug\rastgelesayiüretme.csprojResolveAssemblyReference.cache

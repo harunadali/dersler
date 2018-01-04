@@ -1,0 +1,7 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\LISTBOX İLE EKLEME,SİLME VS İŞLEMLER\listboxileislemler\obj\x86\Debug\listboxileislemler.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\LISTBOX İLE EKLEME,SİLME VS İŞLEMLER\listboxileislemler\obj\x86\Debug\listboxileislemler.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\LISTBOX İLE EKLEME,SİLME VS İŞLEMLER\listboxileislemler\obj\x86\Debug\listboxileislemler.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\LISTBOX İLE EKLEME,SİLME VS İŞLEMLER\listboxileislemler\bin\Debug\listboxileislemler.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\LISTBOX İLE EKLEME,SİLME VS İŞLEMLER\listboxileislemler\bin\Debug\listboxileislemler.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\LISTBOX İLE EKLEME,SİLME VS İŞLEMLER\listboxileislemler\obj\x86\Debug\listboxileislemler.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\LISTBOX İLE EKLEME,SİLME VS İŞLEMLER\listboxileislemler\obj\x86\Debug\listboxileislemler.pdb

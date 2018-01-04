@@ -1,0 +1,7 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYI ARASINDAKİ TEK ÇİFT SAYILAR\ikisayiarasindakitekciftsayilar\bin\Debug\ikisayiarasindakitekciftsayilar.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYI ARASINDAKİ TEK ÇİFT SAYILAR\ikisayiarasindakitekciftsayilar\bin\Debug\ikisayiarasindakitekciftsayilar.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYI ARASINDAKİ TEK ÇİFT SAYILAR\ikisayiarasindakitekciftsayilar\obj\x86\Debug\ikisayiarasindakitekciftsayilar.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYI ARASINDAKİ TEK ÇİFT SAYILAR\ikisayiarasindakitekciftsayilar\obj\x86\Debug\ikisayiarasindakitekciftsayilar.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYI ARASINDAKİ TEK ÇİFT SAYILAR\ikisayiarasindakitekciftsayilar\obj\x86\Debug\ikisayiarasindakitekciftsayilar.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYI ARASINDAKİ TEK ÇİFT SAYILAR\ikisayiarasindakitekciftsayilar\obj\x86\Debug\ikisayiarasindakitekciftsayilar.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYI ARASINDAKİ TEK ÇİFT SAYILAR\ikisayiarasindakitekciftsayilar\obj\x86\Debug\ikisayiarasindakitekciftsayilar.pdb

@@ -1,0 +1,10 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİDDEN DATAGRİDE VERİ AKTARMA\datagriddeeklemecikarma\bin\Debug\datagriddeeklemecikarma.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİDDEN DATAGRİDE VERİ AKTARMA\datagriddeeklemecikarma\bin\Debug\datagriddeeklemecikarma.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİDDEN DATAGRİDE VERİ AKTARMA\datagriddeeklemecikarma\obj\x86\Debug\datagriddeeklemecikarma.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİDDEN DATAGRİDE VERİ AKTARMA\datagriddeeklemecikarma\obj\x86\Debug\datagriddeeklemecikarma.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİDDEN DATAGRİDE VERİ AKTARMA\datagriddeeklemecikarma\obj\x86\Debug\datagriddeeklemecikarma.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİDDEN DATAGRİDE VERİ AKTARMA\datagriddeeklemecikarma\obj\x86\Debug\datagriddeeklemecikarma.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİDDEN DATAGRİDE VERİ AKTARMA\datagriddeeklemecikarma\obj\x86\Debug\datagriddeeklemecikarma.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİDDEN DATAGRİDE VERİ AKTARMA\datagriddeeklemecikarma\obj\x86\Debug\datagriddeeklemecikarma.csprojResolveAssemblyReference.cache
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\DATAGRİDDEN DATAGRİDE VERİ AKTARMA\datagriddeeklemecikarma\obj\x86\Debug\datagriddeeklemecikarma.exe
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\DATAGRİDDEN DATAGRİDE VERİ AKTARMA\datagriddeeklemecikarma\obj\x86\Debug\datagriddeeklemecikarma.pdb

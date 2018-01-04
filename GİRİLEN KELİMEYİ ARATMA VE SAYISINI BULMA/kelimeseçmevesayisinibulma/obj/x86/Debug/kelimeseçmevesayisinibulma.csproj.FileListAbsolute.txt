@@ -1,0 +1,10 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN KELİMEYİ ARATMA VE SAYISINI BULMA\kelimeseçmevesayisinibulma\bin\Debug\kelimeseçmevesayisinibulma.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN KELİMEYİ ARATMA VE SAYISINI BULMA\kelimeseçmevesayisinibulma\bin\Debug\kelimeseçmevesayisinibulma.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN KELİMEYİ ARATMA VE SAYISINI BULMA\kelimeseçmevesayisinibulma\obj\x86\Debug\kelimeseçmevesayisinibulma.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN KELİMEYİ ARATMA VE SAYISINI BULMA\kelimeseçmevesayisinibulma\obj\x86\Debug\kelimeseçmevesayisinibulma.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN KELİMEYİ ARATMA VE SAYISINI BULMA\kelimeseçmevesayisinibulma\obj\x86\Debug\kelimeseçmevesayisinibulma.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN KELİMEYİ ARATMA VE SAYISINI BULMA\kelimeseçmevesayisinibulma\obj\x86\Debug\kelimeseçmevesayisinibulma.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN KELİMEYİ ARATMA VE SAYISINI BULMA\kelimeseçmevesayisinibulma\obj\x86\Debug\kelimeseçmevesayisinibulma.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN KELİMEYİ ARATMA VE SAYISINI BULMA\kelimeseçmevesayisinibulma\obj\x86\Debug\kelimeseçmevesayisinibulma.csprojResolveAssemblyReference.cache
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\GİRİLEN KELİMEYİ ARATMA VE SAYISINI BULMA\kelimeseçmevesayisinibulma\obj\x86\Debug\kelimeseçmevesayisinibulma.exe
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\GİRİLEN KELİMEYİ ARATMA VE SAYISINI BULMA\kelimeseçmevesayisinibulma\obj\x86\Debug\kelimeseçmevesayisinibulma.pdb

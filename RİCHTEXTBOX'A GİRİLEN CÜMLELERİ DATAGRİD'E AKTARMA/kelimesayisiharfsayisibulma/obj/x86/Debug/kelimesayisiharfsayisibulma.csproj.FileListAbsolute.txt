@@ -1,0 +1,8 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RİCHTEXTBOX'A GİRİLEN CÜMLELERİ DATAGRİD'E AKTARMA\kelimesayisiharfsayisibulma\obj\x86\Debug\kelimesayisiharfsayisibulma.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RİCHTEXTBOX'A GİRİLEN CÜMLELERİ DATAGRİD'E AKTARMA\kelimesayisiharfsayisibulma\obj\x86\Debug\kelimesayisiharfsayisibulma.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RİCHTEXTBOX'A GİRİLEN CÜMLELERİ DATAGRİD'E AKTARMA\kelimesayisiharfsayisibulma\obj\x86\Debug\kelimesayisiharfsayisibulma.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RİCHTEXTBOX'A GİRİLEN CÜMLELERİ DATAGRİD'E AKTARMA\kelimesayisiharfsayisibulma\bin\Debug\kelimesayisiharfsayisibulma.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RİCHTEXTBOX'A GİRİLEN CÜMLELERİ DATAGRİD'E AKTARMA\kelimesayisiharfsayisibulma\bin\Debug\kelimesayisiharfsayisibulma.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RİCHTEXTBOX'A GİRİLEN CÜMLELERİ DATAGRİD'E AKTARMA\kelimesayisiharfsayisibulma\obj\x86\Debug\kelimesayisiharfsayisibulma.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RİCHTEXTBOX'A GİRİLEN CÜMLELERİ DATAGRİD'E AKTARMA\kelimesayisiharfsayisibulma\obj\x86\Debug\kelimesayisiharfsayisibulma.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RİCHTEXTBOX'A GİRİLEN CÜMLELERİ DATAGRİD'E AKTARMA\kelimesayisiharfsayisibulma\obj\x86\Debug\kelimesayisiharfsayisibulma.csprojResolveAssemblyReference.cache

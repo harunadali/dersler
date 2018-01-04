@@ -1,0 +1,40 @@
+C:\Users\Şerifenur\Desktop\ÖDEV 2\odev\bin\Debug\odev.exe
+C:\Users\Şerifenur\Desktop\ÖDEV 2\odev\bin\Debug\odev.pdb
+C:\Users\Şerifenur\Desktop\ÖDEV 2\odev\obj\x86\Debug\odev.Form1.resources
+C:\Users\Şerifenur\Desktop\ÖDEV 2\odev\obj\x86\Debug\odev.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\ÖDEV 2\odev\obj\x86\Debug\odev.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\ÖDEV 2\odev\obj\x86\Debug\odev.exe
+C:\Users\Şerifenur\Desktop\ÖDEV 2\odev\obj\x86\Debug\odev.pdb
+C:\Users\Şerifenur\Desktop\ÖDEV 2\odev\obj\x86\Debug\odev.csprojResolveAssemblyReference.cache
+E:\Okul\Düzensiz\ÖDEV 2\odev\obj\x86\Debug\odev.exe
+E:\Okul\Düzensiz\ÖDEV 2\odev\obj\x86\Debug\odev.pdb
+E:\Okul\Düzensiz\ÖDEV 2\odev\bin\Debug\odev.exe
+E:\Okul\Düzensiz\ÖDEV 2\odev\bin\Debug\odev.pdb
+E:\Okul\Düzensiz\ÖDEV 2\odev\obj\x86\Debug\odev.csprojResolveAssemblyReference.cache
+E:\Okul\Düzensiz\ÖDEV 2\odev\obj\x86\Debug\odev.Form1.resources
+E:\Okul\Düzensiz\ÖDEV 2\odev\obj\x86\Debug\odev.Properties.Resources.resources
+E:\Okul\Düzensiz\ÖDEV 2\odev\obj\x86\Debug\odev.csproj.GenerateResource.Cache
+G:\Okul\Düzensiz\ÖDEV 2\odev\obj\x86\Debug\odev.exe
+G:\Okul\Düzensiz\ÖDEV 2\odev\obj\x86\Debug\odev.pdb
+G:\Okul\Düzensiz\ÖDEV 2\odev\obj\x86\Debug\odev.csprojResolveAssemblyReference.cache
+G:\Okul\Düzensiz\ÖDEV 2\odev\obj\x86\Debug\odev.Form1.resources
+G:\Okul\Düzensiz\ÖDEV 2\odev\obj\x86\Debug\odev.Properties.Resources.resources
+G:\Okul\Düzensiz\ÖDEV 2\odev\obj\x86\Debug\odev.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.exe
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.exe
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\bin\Debug\odev.exe
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\bin\Debug\odev.pdb
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.csprojResolveAssemblyReference.cache
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.Form1.resources
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.Properties.Resources.resources
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.csproj.GenerateResource.Cache
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.pdb
+D:\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\bin\Debug\odev.exe
+D:\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\bin\Debug\odev.pdb
+D:\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.csprojResolveAssemblyReference.cache
+D:\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.Form1.resources
+D:\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.Properties.Resources.resources
+D:\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.csproj.GenerateResource.Cache
+D:\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.csproj.CoreCompileInputs.cache
+D:\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.exe
+D:\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\ÖDEV 2\odev\obj\x86\Debug\odev.pdb

@@ -1,0 +1,7 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYIYI ÇARPMA\ikisayiyiçarpma\bin\Debug\ikisayiyiçarpma.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYIYI ÇARPMA\ikisayiyiçarpma\bin\Debug\ikisayiyiçarpma.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYIYI ÇARPMA\ikisayiyiçarpma\obj\x86\Debug\ikisayiyiçarpma.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYIYI ÇARPMA\ikisayiyiçarpma\obj\x86\Debug\ikisayiyiçarpma.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYIYI ÇARPMA\ikisayiyiçarpma\obj\x86\Debug\ikisayiyiçarpma.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYIYI ÇARPMA\ikisayiyiçarpma\obj\x86\Debug\ikisayiyiçarpma.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\İKİ SAYIYI ÇARPMA\ikisayiyiçarpma\obj\x86\Debug\ikisayiyiçarpma.pdb

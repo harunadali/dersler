@@ -1,0 +1,11 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİD KOMUTLARIN KULLANIMI\datagriddeaktarmasiralamaeislemleri\bin\Debug\datagriddeaktarmasiralamaeislemleri.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİD KOMUTLARIN KULLANIMI\datagriddeaktarmasiralamaeislemleri\bin\Debug\datagriddeaktarmasiralamaeislemleri.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİD KOMUTLARIN KULLANIMI\datagriddeaktarmasiralamaeislemleri\obj\x86\Debug\datagriddeaktarmasiralamaeislemleri.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİD KOMUTLARIN KULLANIMI\datagriddeaktarmasiralamaeislemleri\obj\x86\Debug\datagriddeaktarmasiralamaeislemleri.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİD KOMUTLARIN KULLANIMI\datagriddeaktarmasiralamaeislemleri\obj\x86\Debug\datagriddeaktarmasiralamaeislemleri.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİD KOMUTLARIN KULLANIMI\datagriddeaktarmasiralamaeislemleri\obj\x86\Debug\datagriddeaktarmasiralamaeislemleri.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\DATAGRİD KOMUTLARIN KULLANIMI\datagriddeaktarmasiralamaeislemleri\obj\x86\Debug\datagriddeaktarmasiralamaeislemleri.pdb
+G:\Okul\Düzensiz\DATAGRİD KOMUTLARIN KULLANIMI\datagriddeaktarmasiralamaeislemleri\obj\x86\Debug\datagriddeaktarmasiralamaeislemleri.exe
+G:\Okul\Düzensiz\DATAGRİD KOMUTLARIN KULLANIMI\datagriddeaktarmasiralamaeislemleri\obj\x86\Debug\datagriddeaktarmasiralamaeislemleri.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\EKSİK OLANLAR\DATAGRİD KOMUTLARIN KULLANIMI\datagriddeaktarmasiralamaeislemleri\obj\x86\Debug\datagriddeaktarmasiralamaeislemleri.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\EKSİK OLANLAR\DATAGRİD KOMUTLARIN KULLANIMI\datagriddeaktarmasiralamaeislemleri\obj\x86\Debug\datagriddeaktarmasiralamaeislemleri.pdb

@@ -1,0 +1,8 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RICHTEXTBOX KOMUTLARI KULLANIMI\richtextboxileilgiliislemler\bin\Debug\richtextboxileilgiliislemler.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RICHTEXTBOX KOMUTLARI KULLANIMI\richtextboxileilgiliislemler\bin\Debug\richtextboxileilgiliislemler.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RICHTEXTBOX KOMUTLARI KULLANIMI\richtextboxileilgiliislemler\obj\x86\Debug\richtextboxileilgiliislemler.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RICHTEXTBOX KOMUTLARI KULLANIMI\richtextboxileilgiliislemler\obj\x86\Debug\richtextboxileilgiliislemler.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RICHTEXTBOX KOMUTLARI KULLANIMI\richtextboxileilgiliislemler\obj\x86\Debug\richtextboxileilgiliislemler.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RICHTEXTBOX KOMUTLARI KULLANIMI\richtextboxileilgiliislemler\obj\x86\Debug\richtextboxileilgiliislemler.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RICHTEXTBOX KOMUTLARI KULLANIMI\richtextboxileilgiliislemler\obj\x86\Debug\richtextboxileilgiliislemler.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RICHTEXTBOX KOMUTLARI KULLANIMI\richtextboxileilgiliislemler\obj\x86\Debug\richtextboxileilgiliislemler.csprojResolveAssemblyReference.cache

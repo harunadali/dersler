@@ -1,0 +1,16 @@
+G:\Okul\Düzensiz\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\bin\Debug\tekciftatama.exe
+G:\Okul\Düzensiz\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\bin\Debug\tekciftatama.pdb
+G:\Okul\Düzensiz\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\obj\x86\Debug\tekciftatama.Form1.resources
+G:\Okul\Düzensiz\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\obj\x86\Debug\tekciftatama.Properties.Resources.resources
+G:\Okul\Düzensiz\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\obj\x86\Debug\tekciftatama.csproj.GenerateResource.Cache
+G:\Okul\Düzensiz\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\obj\x86\Debug\tekciftatama.exe
+G:\Okul\Düzensiz\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\obj\x86\Debug\tekciftatama.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\obj\x86\Debug\tekciftatama.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\obj\x86\Debug\tekciftatama.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\bin\Debug\tekciftatama.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\bin\Debug\tekciftatama.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\obj\x86\Debug\tekciftatama.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\obj\x86\Debug\tekciftatama.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\obj\x86\Debug\tekciftatama.csproj.GenerateResource.Cache
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\obj\x86\Debug\tekciftatama.exe
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\RASTGELE TEK ÇİFT SAYI AKTARMA\tekciftatama\obj\x86\Debug\tekciftatama.pdb

@@ -1,0 +1,7 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYIILARDAN ÇİFT OLANLAR\rastgeleciftsayilar\bin\Debug\rastgeleciftsayilar.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYIILARDAN ÇİFT OLANLAR\rastgeleciftsayilar\bin\Debug\rastgeleciftsayilar.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYIILARDAN ÇİFT OLANLAR\rastgeleciftsayilar\obj\x86\Debug\rastgeleciftsayilar.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYIILARDAN ÇİFT OLANLAR\rastgeleciftsayilar\obj\x86\Debug\rastgeleciftsayilar.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYIILARDAN ÇİFT OLANLAR\rastgeleciftsayilar\obj\x86\Debug\rastgeleciftsayilar.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYIILARDAN ÇİFT OLANLAR\rastgeleciftsayilar\obj\x86\Debug\rastgeleciftsayilar.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\RASTGELE SAYIILARDAN ÇİFT OLANLAR\rastgeleciftsayilar\obj\x86\Debug\rastgeleciftsayilar.pdb

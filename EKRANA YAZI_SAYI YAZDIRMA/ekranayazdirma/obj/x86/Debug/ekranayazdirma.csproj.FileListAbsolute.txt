@@ -1,0 +1,9 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\EKRANA YAZI_SAYI YAZDIRMA\ekranayazdirma\bin\Debug\ekranayazdirma.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\EKRANA YAZI_SAYI YAZDIRMA\ekranayazdirma\bin\Debug\ekranayazdirma.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\EKRANA YAZI_SAYI YAZDIRMA\ekranayazdirma\obj\x86\Debug\ekranayazdirma.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\EKRANA YAZI_SAYI YAZDIRMA\ekranayazdirma\obj\x86\Debug\ekranayazdirma.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\EKRANA YAZI_SAYI YAZDIRMA\ekranayazdirma\obj\x86\Debug\ekranayazdirma.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\EKRANA YAZI_SAYI YAZDIRMA\ekranayazdirma\obj\x86\Debug\ekranayazdirma.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\EKRANA YAZI_SAYI YAZDIRMA\ekranayazdirma\obj\x86\Debug\ekranayazdirma.pdb
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKRANA YAZI_SAYI YAZDIRMA\ekranayazdirma\obj\x86\Debug\ekranayazdirma.exe
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKRANA YAZI_SAYI YAZDIRMA\ekranayazdirma\obj\x86\Debug\ekranayazdirma.pdb

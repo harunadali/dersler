@@ -1,0 +1,8 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\VİZE-FİNAL ORTALAMA BULMA\vizefinalgectikaldi\bin\Debug\vizefinalgectikaldi.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\VİZE-FİNAL ORTALAMA BULMA\vizefinalgectikaldi\bin\Debug\vizefinalgectikaldi.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\VİZE-FİNAL ORTALAMA BULMA\vizefinalgectikaldi\obj\x86\Debug\vizefinalgectikaldi.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\VİZE-FİNAL ORTALAMA BULMA\vizefinalgectikaldi\obj\x86\Debug\vizefinalgectikaldi.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\VİZE-FİNAL ORTALAMA BULMA\vizefinalgectikaldi\obj\x86\Debug\vizefinalgectikaldi.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\VİZE-FİNAL ORTALAMA BULMA\vizefinalgectikaldi\obj\x86\Debug\vizefinalgectikaldi.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\VİZE-FİNAL ORTALAMA BULMA\vizefinalgectikaldi\obj\x86\Debug\vizefinalgectikaldi.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\VİZE-FİNAL ORTALAMA BULMA\vizefinalgectikaldi\obj\x86\Debug\vizefinalgectikaldi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+G:\Okul\Düzensiz\TEK-ÇİFT SAYI OLUŞTURMA\tekciftsayi\bin\Debug\tekciftsayi.exe
+G:\Okul\Düzensiz\TEK-ÇİFT SAYI OLUŞTURMA\tekciftsayi\bin\Debug\tekciftsayi.pdb
+G:\Okul\Düzensiz\TEK-ÇİFT SAYI OLUŞTURMA\tekciftsayi\obj\x86\Debug\tekciftsayi.Form1.resources
+G:\Okul\Düzensiz\TEK-ÇİFT SAYI OLUŞTURMA\tekciftsayi\obj\x86\Debug\tekciftsayi.Properties.Resources.resources
+G:\Okul\Düzensiz\TEK-ÇİFT SAYI OLUŞTURMA\tekciftsayi\obj\x86\Debug\tekciftsayi.csproj.GenerateResource.Cache
+G:\Okul\Düzensiz\TEK-ÇİFT SAYI OLUŞTURMA\tekciftsayi\obj\x86\Debug\tekciftsayi.exe
+G:\Okul\Düzensiz\TEK-ÇİFT SAYI OLUŞTURMA\tekciftsayi\obj\x86\Debug\tekciftsayi.pdb
+C:\Users\Mertcan\Desktop\Görsel Programlama Örnekleri\EKSİK OLANLAR\TEK-ÇİFT SAYI OLUŞTURMA\tekciftsayi\obj\x86\Debug\tekciftsayi.exe
+C:\Users\Mertcan\Desktop\Görsel Programlama Örnekleri\EKSİK OLANLAR\TEK-ÇİFT SAYI OLUŞTURMA\tekciftsayi\obj\x86\Debug\tekciftsayi.pdb
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\TEK-ÇİFT SAYI OLUŞTURMA\tekciftsayi\obj\x86\Debug\tekciftsayi.exe
+D:\Dersler\Marmara Üniversitesi\Görsel Programlama\Görsel Programlama Örnekleri\EKSİK OLANLAR\TEK-ÇİFT SAYI OLUŞTURMA\tekciftsayi\obj\x86\Debug\tekciftsayi.pdb

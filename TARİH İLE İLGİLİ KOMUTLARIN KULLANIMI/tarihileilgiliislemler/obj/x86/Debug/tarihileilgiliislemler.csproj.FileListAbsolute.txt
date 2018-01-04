@@ -1,0 +1,8 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\TARİH İLE İLGİLİ KOMUTLARIN KULLANIMI\tarihileilgiliislemler\bin\Debug\tarihileilgiliislemler.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\TARİH İLE İLGİLİ KOMUTLARIN KULLANIMI\tarihileilgiliislemler\bin\Debug\tarihileilgiliislemler.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\TARİH İLE İLGİLİ KOMUTLARIN KULLANIMI\tarihileilgiliislemler\obj\x86\Debug\tarihileilgiliislemler.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\TARİH İLE İLGİLİ KOMUTLARIN KULLANIMI\tarihileilgiliislemler\obj\x86\Debug\tarihileilgiliislemler.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\TARİH İLE İLGİLİ KOMUTLARIN KULLANIMI\tarihileilgiliislemler\obj\x86\Debug\tarihileilgiliislemler.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\TARİH İLE İLGİLİ KOMUTLARIN KULLANIMI\tarihileilgiliislemler\obj\x86\Debug\tarihileilgiliislemler.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\TARİH İLE İLGİLİ KOMUTLARIN KULLANIMI\tarihileilgiliislemler\obj\x86\Debug\tarihileilgiliislemler.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\TARİH İLE İLGİLİ KOMUTLARIN KULLANIMI\tarihileilgiliislemler\obj\x86\Debug\tarihileilgiliislemler.csprojResolveAssemblyReference.cache

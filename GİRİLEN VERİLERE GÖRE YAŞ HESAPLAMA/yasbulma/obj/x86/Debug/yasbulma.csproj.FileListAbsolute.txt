@@ -1,0 +1,10 @@
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN VERİLERE GÖRE YAŞ HESAPLAMA\yasbulma\bin\Debug\yasbulma.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN VERİLERE GÖRE YAŞ HESAPLAMA\yasbulma\bin\Debug\yasbulma.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN VERİLERE GÖRE YAŞ HESAPLAMA\yasbulma\obj\x86\Debug\yasbulma.Form1.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN VERİLERE GÖRE YAŞ HESAPLAMA\yasbulma\obj\x86\Debug\yasbulma.Properties.Resources.resources
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN VERİLERE GÖRE YAŞ HESAPLAMA\yasbulma\obj\x86\Debug\yasbulma.csproj.GenerateResource.Cache
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN VERİLERE GÖRE YAŞ HESAPLAMA\yasbulma\obj\x86\Debug\yasbulma.exe
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN VERİLERE GÖRE YAŞ HESAPLAMA\yasbulma\obj\x86\Debug\yasbulma.pdb
+G:\Okul\Düzensiz\GİRİLEN VERİLERE GÖRE YAŞ HESAPLAMA\yasbulma\obj\x86\Debug\yasbulma.exe
+G:\Okul\Düzensiz\GİRİLEN VERİLERE GÖRE YAŞ HESAPLAMA\yasbulma\obj\x86\Debug\yasbulma.pdb
+C:\Users\Şerifenur\Desktop\Görsel Programlama Örnekleri\GİRİLEN VERİLERE GÖRE YAŞ HESAPLAMA\yasbulma\obj\x86\Debug\yasbulma.csprojResolveAssemblyReference.cache
